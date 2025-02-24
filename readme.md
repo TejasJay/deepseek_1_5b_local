@@ -1,9 +1,3 @@
-### **Detailed Summary & Explanation of the Code**
-
-This script interacts with **Ollama**, a local LLM (Large Language Model) framework, to generate structured data about books using the `deepseek-r1` model.
-
-* * *
-
 ## **1\. Breakdown of Each Code Section**
 
 ### **1.1 Pulling the DeepSeek-R1 Model**

@@ -1,5 +1,3 @@
-## **1\. Breakdown of Each Code Section**
-
 ### **1.1 Pulling the DeepSeek-R1 Model**
 
 ```sh

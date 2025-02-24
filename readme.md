@@ -1,3 +1,6 @@
+This script interacts with the Ollama framework to generate book information using the DeepSeek-R1, a thinking model designed for logical reasoning and structured responses. It pulls the deepseek-r1:7b model, queries it for ten books in JSON format, and processes the AI-generated response. DeepSeek-R1 excels in accuracy, structured output, and maintaining context-rich, coherent replies.
+***
+
 ### **1.1 Pulling the DeepSeek-R1 Model**
 
 ```sh
